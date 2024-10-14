@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "product": "Sofa",
+        "price": 100000,
+        "category": "Living Room",
+        "material": "Fabric",
+        "dimensions": {
+            "length": "200 cm",
+            "width": "80 cm",
+            "height": "90 cm"
+        },
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "product": "Meja Makan",
+        "price": 120000,
+        "category": "Dining Room",
+        "material": "Wood",
+        "dimensions": {
+            "length": "150 cm",
+            "width": "90 cm",
+            "height": "75 cm"
+        },
+        "stock": 15
+    },
+    {
+        "id": 3,
+        "product": "Lemari Pakaian",
+        "price": 150000,
+        "category": "Bedroom",
+        "material": "Plywood",
+        "dimensions": {
+            "length": "120 cm",
+            "width": "50 cm",
+            "height": "180 cm"
+        },
+        "stock": 8
+    },
+    {
+        "id": 4,
+        "product": "Rak Buku",
+        "price": 80000,
+        "category": "Office",
+        "material": "Metal",
+        "dimensions": {
+            "length": "100 cm",
+            "width": "30 cm",
+            "height": "200 cm"
+        },
+        "stock": 20
+    },
+    {
+        "id": 5,
+        "product": "Kursi Lipat",
+        "price": 50000,
+        "category": "Outdoor",
+        "material": "Plastic",
+        "dimensions": {
+            "length": "45 cm",
+            "width": "45 cm",
+            "height": "90 cm"
+        },
+        "stock": 30
+    },
+    {
+        "id": 6,
+        "product": "Meja Belajar",
+        "price": 70000,
+        "category": "Office",
+        "material": "Wood",
+        "dimensions": {
+            "length": "120 cm",
+            "width": "60 cm",
+            "height": "75 cm"
+        },
+        "stock": 12
+    },
+    {
+        "id": 7,
+        "product": "Tempat Tidur",
+        "price": 250000,
+        "category": "Bedroom",
+        "material": "Wood and Fabric",
+        "dimensions": {
+            "length": "200 cm",
+            "width": "180 cm",
+            "height": "50 cm"
+        },
+        "stock": 5
+    },
+    {
+        "id": 8,
+        "product": "Nakas",
+        "price": 60000,
+        "category": "Bedroom",
+        "material": "Wood",
+        "dimensions": {
+            "length": "40 cm",
+            "width": "30 cm",
+            "height": "50 cm"
+        },
+        "stock": 25
+    },
+    {
+        "id": 9,
+        "product": "Meja TV",
+        "price": 110000,
+        "category": "Living Room",
+        "material": "Wood and Metal",
+        "dimensions": {
+            "length": "150 cm",
+            "width": "40 cm",
+            "height": "50 cm"
+        },
+        "stock": 12
+    },
+    {
+        "id": 10,
+        "product": "Kursi Malas",
+        "price": 85000,
+        "category": "Living Room",
+        "material": "Leather",
+        "dimensions": {
+            "length": "90 cm",
+            "width": "70 cm",
+            "height": "100 cm"
+        },
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "product": "Kabinet Dapur",
+        "price": 130000,
+        "category": "Kitchen",
+        "material": "Wood and Metal",
+        "dimensions": {
+            "length": "120 cm",
+            "width": "60 cm",
+            "height": "85 cm"
+        },
+        "stock": 7
+    },
+    {
+        "id": 12,
+        "product": "Cermin Dinding",
+        "price": 40000,
+        "category": "Bathroom",
+        "material": "Glass",
+        "dimensions": {
+            "length": "60 cm",
+            "width": "60 cm",
+            "height": "1 cm"
+        },
+        "stock": 30
+    },
+    {
+        "id": 13,
+        "product": "Lemari Dapur",
+        "price": 140000,
+        "category": "Kitchen",
+        "material": "Wood",
+        "dimensions": {
+            "length": "100 cm",
+            "width": "45 cm",
+            "height": "200 cm"
+        },
+        "stock": 5
+    },
+    {
+        "id": 14,
+        "product": "Bangku Taman",
+        "price": 90000,
+        "category": "Outdoor",
+        "material": "Wood and Metal",
+        "dimensions": {
+            "length": "150 cm",
+            "width": "50 cm",
+            "height": "90 cm"
+        },
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "product": "Meja Tamu",
+        "price": 75000,
+        "category": "Living Room",
+        "material": "Glass and Metal",
+        "dimensions": {
+            "length": "120 cm",
+            "width": "60 cm",
+            "height": "45 cm"
+        },
+        "stock": 15
+    },
+    {
+        "id": 16,
+        "product": "Buffet TV",
+        "price": 180000,
+        "category": "Living Room",
+        "material": "Wood",
+        "dimensions": {
+            "length": "200 cm",
+            "width": "50 cm",
+            "height": "60 cm"
+        },
+        "stock": 7
+    },
+    {
+        "id": 17,
+        "product": "Laci Penyimpanan",
+        "price": 50000,
+        "category": "Office",
+        "material": "Plastic",
+        "dimensions": {
+            "length": "50 cm",
+            "width": "40 cm",
+            "height": "70 cm"
+        },
+        "stock": 25
+    },
+    {
+        "id": 18,
+        "product": "Kabinet Kantor",
+        "price": 120000,
+        "category": "Office",
+        "material": "Metal",
+        "dimensions": {
+            "length": "80 cm",
+            "width": "40 cm",
+            "height": "180 cm"
+        },
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "product": "Bangku Bar",
+        "price": 65000,
+        "category": "Dining Room",
+        "material": "Metal and Leather",
+        "dimensions": {
+            "length": "40 cm",
+            "width": "40 cm",
+            "height": "75 cm"
+        },
+        "stock": 18
+    },
+    {
+        "id": 20,
+        "product": "Kursi Kayu",
+        "price": 55000,
+        "category": "Living Room",
+        "material": "Wood",
+        "dimensions": {
+            "length": "45 cm",
+            "width": "45 cm",
+            "height": "90 cm"
+        },
+        "stock": 22
+    }
+]
